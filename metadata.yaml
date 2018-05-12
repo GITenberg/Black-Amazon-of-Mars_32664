@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25398
     wikipedia: http://en.wikipedia.org/wiki/Leigh_Brackett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32664#Black-Amazon-of-Mars
 gutenberg_bookshelf:
 - Science Fiction
 - Science Fiction by Women
