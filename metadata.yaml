@@ -1,0 +1,31 @@
+_repo: Black-Amazon-of-Mars_32664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32664-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brackett, Leigh Douglass
+    birthdate: 1915
+    deathdate: 1978
+    gutenberg_agent_id: '25398'
+    url: http://www.gutenberg.org/2009/agents/25398
+    wikipedia: http://en.wikipedia.org/wiki/Leigh_Brackett
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Science Fiction by Women
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+title: Black Amazon of Mars
+url: http://www.gutenberg.org/ebooks/32664
